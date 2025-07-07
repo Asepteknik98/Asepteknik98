@@ -1,43 +1,37 @@
-<h1 align="center">Hi 👋, I'm Asep Teknik</h1>
-<h3 align="center">Informatics Engineering Student | AI & Web Developer | Vision-based App Builder</h3>
+<!-- Banner Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Asep+Teknik;Informatics+Engineer+Student;AI+and+Web+Developer;Vision+App+Builder&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22" />
+</p>
+
+<h1 align="center">🧠 Welcome to My GitHub Profile!</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asepteknik98">
+    <img src="https://komarev.com/ghpvc/?username=Asepteknik98&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 I love building real-world applications using **Python, PHP, MySQL, and Computer Vision**
-- 🧠 Currently focused on **YOLOv8**, **Flask**, and **Machine Learning**
-- 📸 I've created apps for **Sign Language Detection**, **Acne Analysis**, and **Exam Answer Sheet Recognition**
-- 🎓 8th semester Informatics Engineering student
+```python
+class AsepTeknik:
+    def __init__(self):
+        self.name = "Asep Teknik"
+        self.status = "Final year Informatics Engineering student"
+        self.focus = ["Computer Vision", "YOLOv8", "Machine Learning"]
+        self.skills = ["Python", "PHP", "Flask", "MySQL", "OpenCV"]
 
----
+    def build(self):
+        return ["Sign Language App", "Acne Detection", "OMR Answer Scanner", "KASmart System"]
 
-### 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-
----
-
-### 📂 Notable Projects
-
-- 🧠 [SIBI App - Sign Language Detection](https://github.com/Asepteknik98/sibi_app)
-- 🧴 [Acne Detection AI App](https://github.com/Asepteknik98/acne_detection_app)
-- 📝 [Automated Answer Sheet Scanner](https://github.com/Asepteknik98/deteksi_lembar_jawaban_app)
-- 🛒 [KASmart - Kasir App for MSMEs](https://github.com/Asepteknik98/KASmart)
-
----
-
-### 📫 Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Asepteknik98-181717?logo=github&logoColor=white)](https://github.com/Asepteknik98)
-
----
-
-⭐️ **Thanks for visiting my GitHub Profile!**
+me = AsepTeknik()
+me.build()
