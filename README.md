@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asep Setiadi</h1>
 <h3 align="center">Informatics Engineering | AI/ML Enthusiast | Web Developer | IoT & Embedded System</h3>
 
----
-
-### 🚀 About Me
-- 🎓 8th Semester Informatics Engineering  
-- 🤖 Focus: AI/ML, YOLOv8, Computer Vision, Expert System  
-- 🌐 Web Dev: PHP, CodeIgniter, MySQL, Bootstrap  
-- 🔧 IoT: Arduino, ESP32, Blynk  
-- 🏫 Developer of TEFA TKJ Projects at SMK Jaya Buana  
-- 📱 Currently building: **Automatic Answer Sheet Scanner (YOLOv8 + TensorFlow)**  
-- ✉️ Reach me: **asepsetiadi@example.com**
 
 ---
 
@@ -60,7 +50,6 @@
 </div>
 
 ---
-
 ### 📫 Connect with Me
 
 <p align="left">
