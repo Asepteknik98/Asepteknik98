@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Asep Setiadi</h1>
-<h3 align="center">Informatics Engineering | AI/ML Enthusiast | Web Developer | IoT & Embedded System</h3>
 
 
 ---
