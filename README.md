@@ -1,154 +1,211 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Asep Setiadi, S.Kom</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,45:001a00,100:00ff41&text=ASEP%20SETIADI&fontColor=00ff41&fontSize=52&fontAlignY=42&desc=IT%20Staff%20%40%20SMK%20Jaya%20Buana%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Teacher&descAlignY=64&descSize=16&animation=fadeIn" width="100%" alt="Header Asep Setiadi">
+<h3 align="center">
+IT Staff • Full Stack Developer • Teacher • Multimedia Creative Trainer
+</h3>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+Asep+Setiadi%2C+S.Kom;%3E+IT+Staff+%26+Full+Stack+Developer;%3E+Teacher+of+Computer+and+Network+Engineering;%3E+Multimedia+Creative+Trainer;%3E+Building+Technology+for+Better+Education" alt="Typing animation">
-</a>
+<p align="center">
+IT Staff & Full Stack Developer at <b>SMK Jaya Buana</b><br>
+Building Educational Technology, School Information Systems, Artificial Intelligence & Learning Management Systems.
+</p>
 
-<br>
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Asepteknik98&label=PROFILE%20VIEWS&color=00b33c&style=for-the-badge" alt="Profile views">
-<img src="https://img.shields.io/github/followers/Asepteknik98?label=FOLLOWERS&style=for-the-badge&color=00b33c&labelColor=050505" alt="Followers">
-<img src="https://img.shields.io/github/stars/Asepteknik98?affiliations=OWNER&label=STARS&style=for-the-badge&color=00b33c&labelColor=050505" alt="Stars">
+<img src="https://komarev.com/ghpvc/?username=Asepteknik98&label=Profile%20Views&style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/github/followers/Asepteknik98?style=for-the-badge"/>
 
-root@asep:~# profile
+<img src="https://img.shields.io/github/stars/Asepteknik98?affiliations=OWNER&style=for-the-badge"/>
 
-name       : Asep Setiadi, S.Kom
-workplace  : SMK Jaya Buana
-position   : IT Staff & Full Stack Developer
-teaching   : Computer and Network Engineering (TKJ)
-training   : Multimedia Creative Trainer
-focus      : Web Development, School Systems, AI, Computer Vision
-status     : Building digital solutions for better education
+</p>
 
-Saya bekerja sebagai IT Staff dan Full Stack Developer di SMK Jaya Buana. Selain mengembangkan dan memelihara sistem digital sekolah, saya juga mengajar Teknik Komputer dan Jaringan (TKJ) serta menjadi Pelatih Multimedia Kreatif.
+---
 
-root@asep:~# current-projects
+# 👨‍💻 About Me
 
-<div align="center">
+🎓 Teacher of **Computer and Network Engineering (TKJ)**
 
-Project
+💻 IT Staff & Full Stack Developer at **SMK Jaya Buana**
 
-Description
+🎨 Multimedia Creative Trainer
 
-Status
+🤖 Passionate about Artificial Intelligence, Web Development, and Educational Technology.
 
-Learning Management System
+---
 
-Platform pembelajaran digital untuk admin, guru, dan siswa
+# 💼 Professional Experience
 
-ACTIVE
+### 🏫 SMK Jaya Buana
 
-RIASEC Recommendation System
+**IT Staff & Full Stack Developer**
 
-Sistem rekomendasi jurusan berdasarkan minat dan bakat
+- Developing School Information Systems
+- Building Learning Management Systems (LMS)
+- Maintaining School Servers & Infrastructure
+- Database Design & Development
+- System Analysis
+- UI/UX Design
+- API Integration
 
-ACTIVE
+---
 
-School Information System
+### 👨‍🏫 Teacher
 
-Digitalisasi data dan layanan sekolah
+Computer and Network Engineering (TKJ)
 
-DEVELOPMENT
+Teaching:
 
-LSP SMK Jaya Buana Website
+- Web Programming
+- Computer Networking
+- Office Applications
+- Artificial Intelligence
+- Multimedia
 
-Website informasi sertifikasi profesi
+---
 
-ACTIVE
+### 🎨 Multimedia Creative Trainer
 
-AI & Computer Vision
+- Graphic Design
+- Digital Content
+- Video Editing
+- Creative Media
 
-Eksperimen AI untuk kebutuhan pendidikan
+---
 
-RESEARCH
+# 🚀 Current Projects
 
-</div>
+✅ Learning Management System (LMS)
 
-root@asep:~# tech-stack
+✅ School Information System
 
-<div align="center">
+✅ RIASEC Recommendation System
 
-Core Development
+✅ LSP SMK Jaya Buana Website
 
-<img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,nodejs,html,css&theme=dark" alt="Core Development">
+✅ Educational Dashboard
 
-Frameworks & UI
+✅ Artificial Intelligence Projects
 
-<img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,codeigniter&theme=dark" alt="Frameworks">
+---
 
-Database & Tools
+# 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,vscode,linux,bash&theme=dark" alt="Database and Tools">
+### Languages
 
-AI & Hardware
+<p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino&theme=dark" alt="AI and Hardware">
+<img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,nodejs"/>
 
-<br>
+</p>
 
-<img src="https://img.shields.io/badge/YOLOv8-050505?style=for-the-badge&logoColor=00ff41" alt="YOLOv8">
-<img src="https://img.shields.io/badge/ESP32-050505?style=for-the-badge&logo=espressif&logoColor=00ff41" alt="ESP32">
-<img src="https://img.shields.io/badge/XAMPP-050505?style=for-the-badge&logo=xampp&logoColor=00ff41" alt="XAMPP">
-<img src="https://img.shields.io/badge/Chart.js-050505?style=for-the-badge&logo=chartdotjs&logoColor=00ff41" alt="Chart.js">
+### Frontend
 
-</div>
+<p>
 
-root@asep:~# github-stats
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
 
-<div align="center">
+</p>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Asepteknik98&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&icon_color=00ff41&text_color=d1d5db&ring_color=00ff41" alt="GitHub Stats">
+### Backend
 
-<img height="175" src="https://streak-stats.demolab.com?user=Asepteknik98&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=8B949E&currStreakNum=D1D5DB&sideNums=D1D5DB" alt="GitHub Streak">
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=php,nodejs,codeigniter"/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asepteknik98&layout=compact&hide_border=true&bg_color=050505&title_color=00ff41&text_color=d1d5db" alt="Top Languages">
+</p>
 
-</div>
+### Database
 
-root@asep:~# activity
+<p>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asepteknik98&bg_color=050505&color=00ff41&line=00b33c&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph">
+</p>
 
-</div>
+### Tools
 
-root@asep:~# connect
+<p>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+
+</p>
+
+### AI & IoT
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asepteknik98&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Asepteknik98&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asepteknik98&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asepteknik98&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
 
 <a href="https://github.com/Asepteknik98">
-<img src="https://img.shields.io/badge/GitHub-Asepteknik98-050505?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://instagram.com/USERNAME">
-<img src="https://img.shields.io/badge/Instagram-USERNAME-050505?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="Instagram">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-USERNAME-050505?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn">
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:EMAIL_ANDA">
-<img src="https://img.shields.io/badge/Email-Contact_Me-050505?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</div>
+</p>
 
-<div align="center">
+---
 
-root@asep:~# echo $MOTTO
+# 🎯 Motto
 
-"Building Technology for Better Education."
+> **"Building Technology for Better Education."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00ff41,45:001a00,100:000000&section=footer" width="100%" alt="Footer">
+> *Developing digital solutions that empower schools, educators, and students.*
 
-© 2026 Asep Setiadi, S.Kom — SMK Jaya Buana
+---
 
-</div>
+<p align="center">
+
+⭐ Thank you for visiting my GitHub profile ⭐
+
+</p>
