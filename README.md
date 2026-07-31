@@ -1,57 +1,67 @@
-<h1 align="center">Hi 👋, I'm Asep Setiadi</h1>
+```markdown
+## 👨‍💻 About Me
 
-### 🛠 Tech Stack & Tools
+🎓 **Teacher of Computer and Network Engineering (TKJ)** at **SMK Jaya Buana**
 
-#### 💻 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+🎨 **Multimedia Creative Trainer** at **SMK Jaya Buana**
 
+💻 **IT Staff & Full Stack Developer** at **SMK Jaya Buana**
 
-#### 🧠 AI & Machine Learning
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+🚀 Passionate about building modern web applications, educational technology, and digital transformation for schools.
 
-#### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+🤖 Enthusiast in **Artificial Intelligence**, **Computer Vision**, and **Software Engineering**.
 
-#### 🔌 IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+🌱 Currently developing:
+
+- 🎓 Learning Management System (LMS)
+- 🧠 RIASEC Career Recommendation System
+- 🏫 School Information System
+- 📑 LSP (Professional Certification Body) Website
+- 🤖 AI-Based Educational Applications
+- 📊 Educational Dashboard & Analytics
 
 ---
 
+## 💼 Current Position
 
-### 📫 Connect with Me
+### 🏫 SMK Jaya Buana
 
-<p align="left">
-  <a href="https://instagram.com/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/628XXXXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+- 👨‍🏫 Teacher of Computer and Network Engineering (TKJ)
+- 🎨 Multimedia Creative Trainer
+- 💻 IT Staff
+- 🚀 Full Stack Web Developer
+- 🖥 System Analyst
+- 🗄 Database Designer
+- 🤖 AI & Educational Technology Enthusiast
+
+---
+
+## 🚀 Professional Focus
+
+- 🌐 Full Stack Web Development (PHP, JavaScript, MySQL)
+- 🎓 Educational Technology Development
+- 🤖 Artificial Intelligence & Computer Vision
+- 🏫 School Information Systems
+- 📚 Learning Management System (LMS)
+- 🔐 Information Technology Infrastructure
+- 📊 Database Design & System Architecture
+- 🎨 UI/UX for Education Platforms
+
+---
+
+## 🎯 Motto
+
+> **"Building Technology for Better Education."**
+
+> *Creating innovative digital solutions that empower schools, educators, and students through technology.*
+
+---
+
+<p align="center">
+
+### 💙 Teacher • IT Staff • Full Stack Developer • AI Enthusiast
+
+**SMK Jaya Buana**
+
 </p>
-
----
-
-### 🎯 Motto
-> _"Technology is not about tools, but making life easier and better."_  
-> — Asep Setiadi
-
+```
